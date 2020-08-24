@@ -8,7 +8,7 @@ defmodule PersonalBase.Application do
   def start(_type, _args) do
     children = [
       # Start the Ecto repository
-      PersonalBase.Repo,
+      # PersonalBase.Repo,
       # Start the Telemetry supervisor
       PersonalBaseWeb.Telemetry,
       # Start the PubSub system
