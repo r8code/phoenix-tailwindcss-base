@@ -1,5 +1,14 @@
 # PersonalBase
 
+Base template with elixir phoenix, included :
+  * Updated package.json
+  * Rename lib (https://github.com/MainShayne233/rename), for renaming your project
+  * TailwindCss by following guides from:
+      ['Pragmatic Studio'](https://pragmaticstudio.com/tutorials/adding-tailwind-css-to-phoenix)
+
+### Notes:
+  * Uncomment *.Repo , if you want use database
+
 To start your Phoenix server:
 
   * Setup the project with `mix setup`
